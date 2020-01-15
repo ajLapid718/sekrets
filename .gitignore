@@ -1,0 +1,3 @@
+# normally, you would git ignore your secrets file here;
+# this is something we do primarily in development;
+# you would then have to make sure each member of your team has the most up to date version of secrets.js on their local machines since it is not being pushed up to GitHub;
